@@ -21,7 +21,6 @@ build/
 .melos_tool/
 
 # Generated files
-pubspec.lock
 Generated.xcconfig
 
 # iOS
