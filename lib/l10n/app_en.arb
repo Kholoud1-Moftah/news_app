@@ -1,0 +1,22 @@
+{
+"home" : "Home",
+"general" : "General",
+"news_app" : "News App",
+"go_to_home" : "Go To Home",
+"language" : "Language",
+"theme" : "Theme",
+"english" : "English",
+"arabic" : "Arabic",
+"light" : "Light",
+"dark" : "Dark",
+"something_went_wrong" : "Something Went Wrong",
+"try_again" : "Try Again",
+"general" : "General",
+"business" : "Business",
+"sports" : "Sports",
+"entertainment" : "Entertainment",
+"health" : "Health",
+"technology" : "Technology",
+"science" : "Science",
+"view_all" : "View All"
+}

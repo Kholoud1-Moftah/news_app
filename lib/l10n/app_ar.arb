@@ -1,0 +1,22 @@
+{
+"home" : "الصفحة الرائيسية ",
+"general" : "عام",
+"news_app" : "News App",
+"go_to_home" : "الذهاب الي الصفحة الرائيسية",
+"language" : "اللغة",
+"theme" : "الوضع",
+"english" : "الانجليزية",
+"arabic" : "العربية",
+"light" : "نهاري",
+"dark" : "ليلي",
+"something_went_wrong": "حصل خطا ما",
+"try_again" : "حاول مره اخري",
+"general" : "عام",
+"business" : "عمل",
+"sports" : "رياضة",
+"entertainment" : "تسلية",
+"health" : "صحة",
+"technology" : "تكنولوجيا",
+"science" : "علوم",
+"view_all" : "مشاهدة الكل"
+}

@@ -1,0 +1,38 @@
+# Flutter/Dart .gitignore
+
+# Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter-configuration
+.melos_tool/
+
+# Generated files
+pubspec.lock
+Generated.xcconfig
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# Other
+*.lock
